@@ -1,0 +1,50 @@
+﻿ ID ;Genero; Nivel_Educacion ;Edad; Experiencia_Laboral ; Especializacion ; Lenguajes_Programacion ; Tipo_Empresa ; Ubicacion_Geografica ; Salario; Horas_Trabajo ; Proyectos_Actuales 
+1; Masculino  ; Licenciatura    ;28;6; Desarrollo Web  ; JavaScript, HTML, CSS  ; Startup     ; Nueva York, EE. UU. ;60000;40; Aplicación Móvil     
+2; Femenino   ; Maestría        ;35;10; Seguridad       ; Python, C++, Java     ; Corporación ; San Francisco, EE. UU. ;80000;45; Análisis de Datos    
+3; Masculino  ; Licenciatura    ;26;4; Desarrollo Móvil ; Swift, Java           ; Startup     ; Londres, Reino Unido ;55000;42; Juegos en Línea      
+4; Femenino   ; Doctorado       ;40;15; Inteligencia Artificial ; Python, R  ; Startup     ; Toronto, Canadá ;95000;50; Robótica             
+5; No Binario ; Licenciatura    ;30;7; Análisis de Datos ; SQL, R                ;Agencia; Washington, D.C., EE. UU. ;62000;38; Ciberseguridad       
+6; Femenino ; Maestría        ;32;9; Desarrollo Web  ; JavaScript, Python   ; Corporación ; Sídney, Australia ;72000;44; E-commerce 
+7; Masculino  ; Licenciatura    ;29;5; Seguridad       ; Python, C;Agencia; Berlín, Alemania ;58000;38; Sistemas Embebidos 
+8; Femenino ; Maestría        ;36;11; Inteligencia Artificial ; Python, TensorFlow ; Startup     ; Los Ángeles, EE. UU. ;85000;48; Procesamiento de Lenguaje Natural 
+9; Masculino ; Licenciatura    ;30;6; Desarrollo Móvil ; Java, Kotlin          ;Agencia; São Paulo, Brasil ;61000;40; Aplicaciones Móviles 
+10; Femenino ; Doctorado       ;42;14; Análisis de Datos ; Python, R, SQL ;Agencia; Londres, Reino Unido ;92000;45; Análisis de Datos de Salud 
+11; Masculino ; Licenciatura    ;31;7; Desarrollo Web ; JavaScript, Node.js ;Agencia; San Francisco, EE. UU. ;64000;42; Plataformas de Comercio Electrónico 
+12; Femenino ; Maestría ;37;10; Ciberseguridad ; Python, Ethical Hacking ; Startup     ; Nueva York, EE. UU. ;79000;47; Seguridad en la Nube 
+13; Masculino ; Licenciatura ;27;4; Desarrollo Móvil ; Swift;Agencia; Berlín, Alemania ;54000;41; Aplicaciones Móviles 
+14; Femenino ; Doctorado ;41;16; Inteligencia Artificial ; Python, TensorFlow, Keras ;Agencia; Toronto, Canadá ;97000;51; Robótica 
+15; No Binario ; Licenciatura ;31;8; Análisis de Datos ; R, SQL;Agencia; Washington, D.C., EE. UU. ;63000;40; Análisis de Datos de Salud 
+16; Femenino ; Maestría ;33;9; Desarrollo Web ; JavaScript, Python, Ruby ; Corporación ; Sídney, Australia ;71000;46; E-commerce 
+17; Masculino ; Licenciatura ;29;6; Seguridad ; Python, C, Ethical Hacking ;Agencia; São Paulo, Brasil ;59000;39; Sistemas Embebidos 
+18; Femenino ; Doctorado ;38;13; Desarrollo Móvil ; Java, Swift ;Agencia; Londres, Reino Unido ;91000;44; Aplicaciones Móviles 
+19; Masculino ; Licenciatura ;32;8; Inteligencia Artificial ; Python, R, TensorFlow ;Agencia; San Francisco, EE. UU. ;66000;43; Procesamiento de Lenguaje Natural 
+20; Femenino ; Maestría ;35;12; Ciberseguridad ; Python, Ethical Hacking ; Startup     ; Los Ángeles, EE. UU. ;82000;49; Seguridad en la Nube 
+21; Masculino ; Licenciatura ;28;5; Desarrollo Web ; JavaScript, HTML, CSS ;Agencia; Nueva York, EE. UU. ;59000;41; Aplicación Móvil 
+22; Femenino ; Maestría ;36;9; Seguridad ; Python, Ethical Hacking ;Agencia; San Francisco, EE. UU. ;71000;47; Análisis de Seguridad 
+23; Masculino ; Licenciatura ;30;7; Desarrollo Móvil ; Swift, Kotlin ;Agencia; Londres, Reino Unido ;64000;39; Juegos en Línea 
+24; Femenino ; Doctorado ;42;14; Inteligencia Artificial ; Python, TensorFlow, Keras ; Corporación ; Toronto, Canadá ;93000;50; Robótica 
+25; No Binario ; Licenciatura ;31;6; Análisis de Datos ; SQL, R ;Agencia; Washington, D.C., EE. UU. ;61000;39; Ciberseguridad 
+26; Femenino ; Maestría ;34;11; Desarrollo Web ; JavaScript, Node.js ; Corporación ; Sídney, Australia ;84000;45; Plataformas de Comercio Electrónico 
+27; Masculino ; Licenciatura ;29;5; Seguridad ; Python, C;Agencia; Berlín, Alemania ;57000;38; Sistemas Embebidos 
+28; Femenino ; Doctorado ;41;16; Inteligencia Artificial ; Python, R ;Agencia; Nueva York, EE. UU. ;96000;49; Procesamiento de Lenguaje Natural 
+29; No Binario ; Licenciatura ;32;8; Análisis de Datos ; R, SQL;Agencia; Washington, D.C., EE. UU. ;62000;41; Análisis de Datos de Salud 
+30; Femenino ; Maestría ;33;9; Desarrollo Web ; JavaScript, Python, Ruby ; Corporación ; Sídney, Australia ;72000;46; E-commerce 
+31; Femenino  ; Doctorado       ;39;12; Desarrollo Web ; JavaScript, Python    ; Startup     ; Austin, EE. UU.      ;82000;42; Aplicación Móvil    
+32; Masculino ; Licenciatura    ;31;8; Ciberseguridad ; Python, Ethical Hacking ; Corporación ; Seattle, EE. UU.    ;76000;44; Seguridad en la Nube 
+33; No Binario ; Maestría       ;35;10; Desarrollo Móvil ; Java, Kotlin          ; Startup     ; Berlín, Alemania     ;69000;38; Aplicaciones Móviles 
+34; Femenino  ; Doctorado       ;42;15; Inteligencia Artificial ; Python, R, TensorFlow ; Corporación ; Los Ángeles, EE. UU. ;95000;47; Robótica            
+35; Masculino ; Maestría        ;34;9; Análisis de Datos ; R, SQL               ; Agencia     ; Londres, Reino Unido ;78000;43; Análisis de Datos de Salud 
+36; Femenino  ; Licenciatura    ;29;7; Desarrollo Web ; HTML, CSS             ; Startup     ; San Francisco, EE. UU. ;69000;40; Plataformas de Comercio Electrónico 
+37; Masculino ; Maestría        ;36;11; Ciberseguridad ; CompTIA Security+     ; Gobierno    ; Washington, D.C., EE. UU. ;78000;45; Análisis de Seguridad 
+38; No Binario ; Licenciatura   ;32;8; Desarrollo Móvil ; Swift, Android        ; Startup     ; Sídney, Australia   ;72000;42; Aplicaciones Móviles 
+39; Femenino  ; Doctorado       ;41;14; Inteligencia Artificial ; Python, TensorFlow, Keras ; Startup ; Toronto, Canadá ;91000;50; Procesamiento de Lenguaje Natural 
+40; Masculino ; Maestría        ;33;9; Seguridad ; CEH, CompTIA Security+ ; Startup ; São Paulo, Brasil ;73000;41; Sistemas Embebidos 
+41; Femenino  ; Licenciatura    ;28;6; Desarrollo Móvil ; Java, Kotlin ; Startup ; Nueva York, EE. UU. ;66000;40; Ciberseguridad 
+42; Masculino ; Doctorado       ;40;12; Desarrollo Web ; JavaScript, Ruby ; Corporación ; Londres, Reino Unido ;89000;45; IoT 
+43; Femenino  ; Maestría        ;37;10; Seguridad ; Python, Ethical Hacking ; Corporación ; San Francisco, EE. UU. ;81000;47; Seguridad en la Nube 
+44; Masculino ; Licenciatura    ;29;7; Análisis de Datos ; R, Python ; Startup ; Berlín, Alemania ;72000;42; Análisis de Datos de Salud 
+45; Femenino  ; Doctorado       ;42;14; Inteligencia Artificial ; Python, TensorFlow, Keras ; Corporación ; Toronto, Canadá ;93000;48; Robótica 
+46; Masculino ; Maestría        ;34;9; Desarrollo Móvil ; Swift, Java ; Agencia ; Sídney, Australia ;75000;43; Realidad Aumentada 
+47; Femenino  ; Licenciatura    ;29;7; Desarrollo Web ; JavaScript, HTML, CSS ; Agencia ; Nueva York, EE. UU. ;68000;41; Aplicación Móvil 
+48; Masculino ; Maestría        ;36;11; Seguridad ; Python, Ethical Hacking ; Corporación ; Los Ángeles, EE. UU. ;82000;47; Análisis de Seguridad 
+49; No Binario ; Licenciatura   ;32;8; Desarrollo Web ; JavaScript, Python ; Startup ; Londres, Reino Unido ;70000;45; Plata
